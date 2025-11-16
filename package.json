@@ -1,0 +1,18 @@
+{
+  "name": "bankr-x402-service",
+  "version": "1.0.0",
+  "description": "x402 Microservice with @bankr/sdk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@bankr/sdk": "^latest",
+    "@x402sdk/sdk": "^latest",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
