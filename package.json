@@ -7,12 +7,12 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@bankr/sdk": "^0.1.0",
+    "@bankr/sdk": "^0.0.1",
     "@x402sdk/sdk": "^1.1.0",
     "dotenv": "^16.0.0",
     "express": "^4.18.0"
   },
   "engines": {
-    "node": "20.x"
+    "node": ">=24.0.0"
   }
 }
