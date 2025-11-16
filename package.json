@@ -7,8 +7,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@bankr/sdk": "^latest",
-    "@x402sdk/sdk": "^latest",
+    "@bankr/sdk": "^0.1.0",
+    "@x402sdk/sdk": "^1.1.0",
     "dotenv": "^16.0.0",
     "express": "^4.18.0"
   },
